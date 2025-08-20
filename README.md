@@ -2,9 +2,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5B2C83,2E2A72&height=200&section=header&text=VERRATY&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 
 <!-- Typing Subheader -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3000&pause=1000&color=5B2C83&center=true&vCenter=true&width=600&lines=AI+Automation+Agency;Global+Enterprise+Solutions;Empowering+Businesses+with+AI" alt="Typing Effect"/>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=9C7CFF&center=true&vCenter=true&width=800&lines=AI+Automation+Agency;Intelligent+Systems+for+Business+Excellence;Global+Innovation+in+AI" alt="Typing SVG" />
+</h3>
+
 
 ---
 
